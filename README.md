@@ -9,6 +9,3 @@ Loongson/KDE
 
 ### Most Used Languages
 ![SignKirigami's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prcups&layout=compact&show_icons=true&theme=buefy)
-
-### maimaiDX Rating
-![SignKirigami's DX Rating](https://dxrating.luoling.moe/api/genImage/prcups)
